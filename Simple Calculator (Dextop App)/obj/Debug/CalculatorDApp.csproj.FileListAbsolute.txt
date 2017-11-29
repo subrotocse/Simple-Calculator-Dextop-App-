@@ -1,0 +1,9 @@
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\bin\Debug\CalculatorDApp.exe.config
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\bin\Debug\CalculatorDApp.exe
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\bin\Debug\CalculatorDApp.pdb
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\obj\Debug\CalculatorDApp.csprojResolveAssemblyReference.cache
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\obj\Debug\CalculatorDApp.Form1.resources
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\obj\Debug\CalculatorDApp.Properties.Resources.resources
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\obj\Debug\CalculatorDApp.csproj.GenerateResource.Cache
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\obj\Debug\CalculatorDApp.exe
+J:\DOT NET\ASP.NET (BITM)\BITM All Problem Code\Project\Basic C# Dextop App\CalculatorDApp\CalculatorDApp\obj\Debug\CalculatorDApp.pdb
