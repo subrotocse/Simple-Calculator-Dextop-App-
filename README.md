@@ -1,1 +1,1 @@
-This is a simple Windows Form Calculator .Created C# Windows Forms .
+This is a simple Windows Form Calculator .Created C# Windows Forms dextop appication subroto.
